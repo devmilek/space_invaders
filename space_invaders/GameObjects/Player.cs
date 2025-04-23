@@ -22,4 +22,9 @@ public class Player : GameObject
         
         SetPosition(new Vector2D(clampedX, Position.Y));
     }
+
+    public Bullet Shoot()
+    {
+        return new Bullet(new Vector2D(Position.X, Position.Y - Size.Y / 2), true);
+    }
 }
