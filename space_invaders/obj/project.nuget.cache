@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6j7gUWqOg0=",
+  "success": true,
+  "projectFilePath": "/Users/milek/Developer/GiganciProgramowania/space_invaders/space_invaders/space_invaders.csproj",
+  "expectedPackageFiles": [
+    "/Users/milek/.nuget/packages/raylib-cs/7.0.1/raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
